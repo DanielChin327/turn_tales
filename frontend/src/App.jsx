@@ -30,7 +30,7 @@ function App() {
       <h1>TurnTales</h1>
       <Story story={story} />
       <TurnInput currentTurn={currentTurn} onNewLine={handleNewLine} />
-    </div>
+    </div>>
   );
 }
 
